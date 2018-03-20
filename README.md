@@ -11,5 +11,8 @@ We found a number of errors while going through sandbox examples together, altho
 - Cannon: Game will not load because of TypeError: this.load.obj is not a function
 (We noticed that both of these games are made of multiple files while others are not. It's possible that whatever mechanism is meant to integrate these files together may be the problem.)
 - Flood: Bug with position of monsters during game play. The monsters move away from their intended positions.
+Potential fix for issue: 
+```
+this.monsterTween.targets[0].y = icon.y
+```
 - Geom/Point/Add: This function seems to be causing issues for most of the bugs relating to Geom/Point. In the main Phaser repository, src/geom/Add.js happens to be missing 
-- Contributor's Guide: Found [typo](https://github.com/photonstorm/phaser/issues/3435) (and will hopefully find a way to fix typos on the site)
