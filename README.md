@@ -5,7 +5,7 @@ Meetings on Tuesdays at 6:30pm
 ## March 20th Meeting Notes  
 Objective: Go through Phaser3 tutorial and examples sandbox to find bugs.
 
-We found a number of errors while going through sandbox examples together, although many of them were already reported. 
+We found a number of errors while going through sandbox examples together, although some of them were already reported. 
 
 - Pacman: Game will not load because of TypeError: this.body.setTypeB is not a function
 - Cannon: Game will not load because of TypeError: this.load.obj is not a function
