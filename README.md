@@ -15,4 +15,4 @@ Potential fix for issue:
 ```
 this.monsterTween.targets[0].y = icon.y
 ```
-- Geom/Point/Add: This function seems to be causing issues for most of the bugs relating to Geom/Point. In the main Phaser repository, src/geom/Add.js happens to be missing 
+- Geom/Point/Add, Subtract, Divide, Multiply: These functions seem to be causing issues for most of the bugs relating to Geom/Point. In the main Phaser repository, each of these seem to be missing. Is this intentional? If so, the examples all need to be reworked. If it's not intentional, then there's a mistake in Phaser's core code.
