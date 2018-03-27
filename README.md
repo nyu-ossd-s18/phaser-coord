@@ -8,7 +8,9 @@ Objective: Narrow focus for the goal of the project.
 Progress: Now that we are all a bit more familar with Phaser, we have decided how we will focus on our long-term goals for contributing. We've decided that we will have two focuses:
 
 1. Creating new examples: Marcus, Matthew
-- [**fill here will details**]
+- We've decided to make a top-down shooter, showing off features of Phaser that aren't in current game examples.
+- Our goal is 200 LOC--we'll fit in as many features as we can within it
+- We'll collaborate remotely on this.
 2. Fixing broken examples: Melissa, Gabe, Daisy
 - Several examples in the phaser3-examples repository are broken due to changes in the API from version 2 to version 3. As this switch was very recent, there is a lot still to fix. The documentation isn't even done yet! 
 - We each have created a card in the "In Progress" column of our GitHub project detailing what sections of the API we are focusing on.
