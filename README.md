@@ -11,6 +11,7 @@ Progress: Now that we are all a bit more familar with Phaser, we have decided ho
 - [**fill here will details**]
 2. Fixing broken examples: Melissa, Gabe, Daisy
 - Several examples in the phaser3-examples repository are broken due to changes in the API from version 2 to version 3. As this switch was very recent, there is a lot still to fix. The documentation isn't even done yet! 
+- We each have created a card in the "In Progress" column of our GitHub project detailing what sections of the API we are focusing on.
 
 ## March 20th Meeting Notes  
 Objective: Go through Phaser 3 tutorial and examples sandbox to find bugs.
