@@ -2,6 +2,10 @@
 
 _Meetings on Tuesdays at 6:30pm_
 ## April 3 Meeting Notes
+Objective: Continue working on example fixes and our new example
+
+Progress:
+Marcus: Helped clean Matthew's shooter example game.
 Gabe: Fixed the Geom / Point / Get Magnitude Sq example. PR: https://github.com/photonstorm/phaser3-examples/pull/106
 
 ## March 27th Meeting Notes 
