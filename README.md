@@ -14,6 +14,8 @@ Worked on new camera feature of shooter example.
 
 Gabe: Fixed the Geom / Point / Get Magnitude Sq example. PR: https://github.com/photonstorm/phaser3-examples/pull/106
 
+Daisy: Found fix for zig-zag path: https://github.com/photonstorm/phaser3-examples/issues/104
+
 ## March 27th Meeting Notes 
 Objective: Narrow focus for the goal of the project.
 
