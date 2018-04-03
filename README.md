@@ -1,6 +1,8 @@
 # phaser-coord
 
 _Meetings on Tuesdays at 6:30pm_
+## April 3 Meeting Notes
+Gabe: Fixed the Geom / Point / Get Magnitude Sq example. PR: https://github.com/photonstorm/phaser3-examples/pull/106
 
 ## March 27th Meeting Notes 
 Objective: Narrow focus for the goal of the project.
