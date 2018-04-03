@@ -5,7 +5,12 @@ _Meetings on Tuesdays at 6:30pm_
 Objective: Continue working on example fixes and our new example
 
 Progress:
-Marcus: Helped clean Matthew's shooter example game.
+
+Marcus: 
+Helped clean Matthew's shooter example game.
+
+Matthew:
+Worked on new camera feature of shooter example.
 
 Gabe: Fixed the Geom / Point / Get Magnitude Sq example. PR: https://github.com/photonstorm/phaser3-examples/pull/106
 
