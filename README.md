@@ -16,6 +16,8 @@ Gabe: Fixed the Geom / Point / Get Magnitude Sq example. PR: https://github.com/
 
 Daisy: Found fix for zig-zag path: https://github.com/photonstorm/phaser3-examples/issues/104
 
+Melissa: (wasn't able to be at the meeting) Worked on another PR: https://github.com/photonstorm/phaser3-examples/pull/105
+
 ## March 27th Meeting Notes 
 Objective: Narrow focus for the goal of the project.
 
