@@ -1,6 +1,15 @@
 # phaser-coord
 
 _Meetings on Tuesdays at 6:30pm_
+
+## April 17 Meeting Notes
+Objective: Complete full draft of presentation
+
+Progress: Presentation available [here](https://docs.google.com/presentation/d/1RvqHb_Uuuika4nDF1sxnTS19hqrcL5O-_VVcLwX8I2s/edit?usp=sharing)!
+
+## April 10 Meeting Notes
+No meeting today! 
+
 ## April 3 Meeting Notes
 Objective: Continue working on example fixes and our new example
 
