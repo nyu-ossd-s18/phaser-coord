@@ -1,13 +1,13 @@
 # Issues Attempted/Considered
 
-| Issue # | Comments |
+| Issue   | Comments |
 |---------| ---------|
 | Link 	  | Did you decide to work on it, and if so, how successful was it? |
 
 # Pull Requests
 
-| Pull Request # | Status | Members |
+| Pull Request   | Status | Members |
 | ---------------| -------| --------|
 | Link           | x      | x
 
-# Individual Commits
+# Individual Commits Links
