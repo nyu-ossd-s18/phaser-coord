@@ -1,4 +1,6 @@
-# phaser-coord
+# phaser-coord  
+
+[Check out our final presentation here!](https://docs.google.com/presentation/d/1RvqHb_Uuuika4nDF1sxnTS19hqrcL5O-_VVcLwX8I2s/edit?usp=sharing)  
 
 _Meetings on Tuesdays at 6:30pm_
 
