@@ -36,11 +36,16 @@
 # Individual Commits Links
 
 ## Gabe
-[1](https://github.com/nyu-ossd-s18/phaser3-examples/commit/b784b674e4d1d962e614ec7a68aa44723e86882d)
+[1](https://github.com/nyu-ossd-s18/phaser3-examples/commit/b784b674e4d1d962e614ec7a68aa44723e86882d)  
+[2](https://github.com/nyu-ossd-s18/phaser3-examples/commit/926d2eae79bcced1f90bcd206ecbe07566f84e51)  
+[3](https://github.com/nyu-ossd-s18/phaser3-examples/commit/26dcd0bacd938949f08aea81f033dd57cc53a4bb)  
+[4](https://github.com/nyu-ossd-s18/phaser3-examples/commit/1237e2d3002c8c94b03731e9f746a5f4e6ea53f0)  
 
-[2](https://github.com/nyu-ossd-s18/phaser3-examples/commit/926d2eae79bcced1f90bcd206ecbe07566f84e51)
-
-[3](https://github.com/nyu-ossd-s18/phaser3-examples/commit/26dcd0bacd938949f08aea81f033dd57cc53a4bb)
-
-[4](https://github.com/nyu-ossd-s18/phaser3-examples/commit/1237e2d3002c8c94b03731e9f746a5f4e6ea53f0)
-
+## Melissa
+[1](https://github.com/nyu-ossd-s18/phaser3-examples/commit/180f1133916964a59cb42ea202ccc20cb6be8af8)
+[2](https://github.com/nyu-ossd-s18/phaser3-examples/commit/58fb4df1a26e926da16782331bdbdbac2042fbd5)
+[3](https://github.com/nyu-ossd-s18/phaser3-examples/commit/3236a2ac937f0e2ebf4880c61c4192cf853ea15e)
+[4](https://github.com/nyu-ossd-s18/phaser3-examples/commit/24355b200506fc607084034de81dc3893e351bac)
+[5](https://github.com/nyu-ossd-s18/phaser3-examples/commit/22aa4d8935824d42370f41a77ad5ed7e5d877441)
+[6](https://github.com/nyu-ossd-s18/phaser3-examples/commit/e96d17d5f3cbc078dec9f2d4e34b98535566ed24)
+[7](https://github.com/nyu-ossd-s18/phaser3-examples/commit/3dd3fa4561985f12e9c02c45af740a1404fcba35)
