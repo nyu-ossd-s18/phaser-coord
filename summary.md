@@ -8,7 +8,16 @@
 | [Gabe](https://github.com/photonstorm/phaser3-examples/issues/81) | Yes, fixed in merged PR |
 | [Gabe](https://github.com/photonstorm/phaser3-examples/issues/83) | Yes, fixed in merged PR |
 | [Gabe](https://github.com/photonstorm/phaser3-examples/issues/22) | Yes, found a potential fix, but it did not resolve the underlying issue. Issue still open. |
-
+| [Melissa, #113](https://github.com/photonstorm/phaser3-examples/issues/113) | Did not work on it |
+| [Melissa, #56](https://github.com/photonstorm/phaser3-examples/issues/56) | Yes, fixed in merged PR |
+| [Melissa, #54](https://github.com/photonstorm/phaser3-examples/issues/54)| Yes, fixed in merged PR |
+| [Melissa, #53](https://github.com/photonstorm/phaser3-examples/issues/53) | Yes, fixed in merged PR |
+| [Melissa, #52](https://github.com/photonstorm/phaser3-examples/issues/52) | Yes, responded to question in comments, but issue is still open. |
+| [Melissa, #51](https://github.com/photonstorm/phaser3-examples/issues/51) | Yes, fixed in merged PR |
+| [Melissa, #46](https://github.com/photonstorm/phaser3-examples/issues/46) | Yes, fixed in merged PR |
+| [Melissa, #43](https://github.com/photonstorm/phaser3-examples/issues/43) | Yes, fixed in merged PR |
+| [Melissa, #39](https://github.com/photonstorm/phaser3-examples/issues/39) | Yes, submitted PR with replacement example |
+ 
 # Pull Requests
 
 | Pull Request   | Status | Members |
