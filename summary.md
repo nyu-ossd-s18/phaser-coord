@@ -13,7 +13,12 @@
 
 | Pull Request   | Status | Members |
 | ---------------| -------| --------|
-| Link           | x      | x
+| Link           | x      | x 
+| [Link](https://github.com/photonstorm/phaser3-examples/pull/128) | Merged | Gabe |
+| [Link](https://github.com/photonstorm/phaser3-examples/pull/106) | Merged | Gabe |
+| [Link](https://github.com/photonstorm/phaser3-examples/pull/99) | Merged | Gabe |
+| [Link](https://github.com/photonstorm/phaser3-examples/pull/98) | Merged | Gabe |
+
 
 # Individual Commits Links
 
