@@ -26,6 +26,11 @@
 | [Link](https://github.com/photonstorm/phaser3-examples/pull/106) | Merged | Gabe |
 | [Link](https://github.com/photonstorm/phaser3-examples/pull/99) | Merged | Gabe |
 | [Link](https://github.com/photonstorm/phaser3-examples/pull/98) | Merged | Gabe |
+| [Geom/Point/Clone fix](https://github.com/photonstorm/phaser3-examples/pull/95) | Merged | Melissa |
+| [Various Geom/Line](https://github.com/photonstorm/phaser3-examples/pull/105) | Merged | Melissa |
+| [Geom/Line/Perp Slope](https://github.com/photonstorm/phaser3-examples/pull/114) | Merged | Melissa |
+| [Geom/Polygon/Clone](https://github.com/photonstorm/phaser3-examples/pull/116) | Merged | Melissa |
+| [Geom/Ellipse/Circumference Point](https://github.com/photonstorm/phaser3-examples/pull/138) | Submitted | Melissa |
 
 
 # Individual Commits Links
