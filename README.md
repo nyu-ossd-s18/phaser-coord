@@ -1,6 +1,13 @@
-# phaser-coord  
+# Team Phaser
+**NYU Open Source Software Development** by Professor Joanna Klukowska, Spring 2018   
+Gabe Gordon  
+Marcus Guimaraes  
+Matthew Herman  
+Melissa Lopez  
+Daisy Zheng  
 
-[Check out our final presentation here!](https://docs.google.com/presentation/d/1RvqHb_Uuuika4nDF1sxnTS19hqrcL5O-_VVcLwX8I2s/edit?usp=sharing)  
+[Check out our final presentation slides here!](https://docs.google.com/presentation/d/1RvqHb_Uuuika4nDF1sxnTS19hqrcL5O-_VVcLwX8I2s/edit?usp=sharing)  
+[See a summary of our contributions here!](https://github.com/nyu-ossd-s18/phaser-coord/blob/master/summary.md)  
 
 _Meetings on Tuesdays at 6:30pm_
 
