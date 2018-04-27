@@ -44,6 +44,7 @@
 | [Zig Zag Path](https://github.com/photonstorm/phaser3-examples/pull/107) | Merged | Daisy |
 | [Velocity from Tangent Vectors](https://github.com/photonstorm/phaser3-examples/pull/115) | Merged | Daisy |
 | [Physics/Arcade/Static Group](https://github.com/photonstorm/phaser3-examples/pull/117) | Closed | Daisy |
+| [4 new topdown shooter examples](https://github.com/photonstorm/phaser3-examples/pull/140) | Open | Matthew |
 
 # Individual Commits Links
 
@@ -67,4 +68,7 @@
 [2](https://github.com/nyu-ossd-s18/phaser3-examples/commit/9db27cb31d64ba3eda81e195ca294feaca007e07) |
 [3](https://github.com/nyu-ossd-s18/phaser3-examples/commit/67deb77d1d9e274554fb06988d8ca6e54cfc1256) |
 [4](https://github.com/nyu-ossd-s18/phaser3-examples/commit/b61ce6f97ac105541f31bfcad20df2cf95dd6af9) |
+
+### Matthew
+[1](https://github.com/nyu-ossd-s18/phaser3-examples/commit/1fb306b22d3c08c48e9d5d42143357147487aee6) |
 
