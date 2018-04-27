@@ -28,7 +28,10 @@
 | [Daisy, #130](https://github.com/photonstorm/phaser3-examples/issues/130) | Yes, same as #129 |
 | [Marcus, Daisy, #27](https://github.com/photonstorm/phaser3-examples/issues/27) and [#65](https://github.com/photonstorm/phaser3-examples/issues/65)| Tinkered with it but unable to figure out Tilemaps so I gave up. Marcus is currently working on it right now | 
 | [Matthew, #22](https://github.com/photonstorm/phaser3-examples/issues/22) | Yes I worked on it but could not find the source of the error, although I narrowed the bug to one function and commented that in the issue |
-
+| [Marcus, #58](https://github.com/photonstorm/phaser3-examples/issues/58) | No, as there was nothing here to fix |
+| [Marcus, #112](https://github.com/photonstorm/phaser3-examples/issues/112) | Yes?  This wasn't a real issue, but a frustrated user whom I encouraged :) |
+| [Marcus, #119](https://github.com/photonstorm/phaser3-examples/issues/119) | Yes, fixed in submitted PR |
+| [Marcus, #137](https://github.com/photonstorm/phaser3-examples/issues/137) | Yes, fixed in submitted PR |
 
 # Pull Requests
 
@@ -47,6 +50,8 @@
 | [Velocity from Tangent Vectors](https://github.com/photonstorm/phaser3-examples/pull/115) | Merged | Daisy |
 | [Physics/Arcade/Static Group](https://github.com/photonstorm/phaser3-examples/pull/117) | Closed | Daisy |
 | [4 new topdown shooter examples](https://github.com/photonstorm/phaser3-examples/pull/140) | Open | Matthew |
+| [Fix Get Bounds Example](https://github.com/photonstorm/phaser3-examples/pull/132) | Open | Marcus |
+| [fixed resume bug](https://github.com/photonstorm/phaser3-examples/pull/143) | Open | Marcus |
 
 # Individual Commits Links
 
@@ -73,4 +78,8 @@
 
 ### Matthew
 [1](https://github.com/nyu-ossd-s18/phaser3-examples/commit/1fb306b22d3c08c48e9d5d42143357147487aee6)
+
+### Marcus
+[1](https://github.com/nyu-ossd-s18/phaser3-examples/commit/ee09303b2830b4eef8c2ea5b9b0f895ea3d98265) |
+[2](https://github.com/nyu-ossd-s18/phaser3-examples/commit/22a5eb999e00a446b587a9c9911a222d82b6da59)
 
