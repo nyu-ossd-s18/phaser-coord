@@ -27,6 +27,8 @@
 | [Daisy, #126](https://github.com/photonstorm/phaser3-examples/issues/126) | Yes, unable to fix original problem but found a fix for another issue in code | 
 | [Daisy, #130](https://github.com/photonstorm/phaser3-examples/issues/130) | Yes, same as #129 |
 | [Marcus, Daisy, #27](https://github.com/photonstorm/phaser3-examples/issues/27) and [#65](https://github.com/photonstorm/phaser3-examples/issues/65)| Tinkered with it but unable to figure out Tilemaps so I gave up. Marcus is currently working on it right now | 
+| [Matthew, #22] (https://github.com/photonstorm/phaser3-examples/issues/22) | Yes I worked on it but could not find the source of the error, although I narrowed the bug to one function and commented that in the issue |
+
 
 # Pull Requests
 
